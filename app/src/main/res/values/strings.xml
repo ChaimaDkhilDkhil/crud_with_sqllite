@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">crud_avec_sql</string>
+    <color name="grey">#8BC34A</color>
+</resources>
